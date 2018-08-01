@@ -19,14 +19,13 @@ function johnLennonFacts(arr){
    return result; 
  }
  
- function iLoveTheBeatles(){
-   function iLoveTheBeatles(number) { 
+function iLoveTheBeatles(num) { 
   
  let newArray = []; 
   do {
-     newArray.push(`I love the Beatles!`); //this will happen one time, whether or not number meets condition below
-    number++; 
-  } while (number < 15); 
+     newArray.push(`I love the Beatles!`)
+    num++
+  } while (num < 15)
 
   return newArray; 
 } 
