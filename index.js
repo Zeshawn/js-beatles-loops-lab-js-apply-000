@@ -1,4 +1,4 @@
-var musicians = ["John Lennon", ]
+var musicians = ["John Lennon", "Paul McCartney", ]
 
 
 
